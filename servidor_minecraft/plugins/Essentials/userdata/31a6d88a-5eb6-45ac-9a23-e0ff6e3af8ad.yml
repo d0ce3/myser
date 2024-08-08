@@ -1,0 +1,53 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.101.19.125
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723013839389
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723013955077
+  login: 1723008066425
+  kits:
+    color: 1721355590275
+    firework: 1721355733489
+    dtools: 1721355763634
+    tools: 1721355854563
+    notch: 1721355866026
+money: '0'
+last-account-name: d0ce3_
+lastlocation:
+  world: aabf7655-9762-4608-b101-5cbb49b4b27f
+  world-name: world
+  x: -702.0633726721535
+  y: 119.0
+  z: -142.9211163589277
+  yaw: -82.46939086914062
+  pitch: 11.299101829528809
+logoutlocation:
+  world: aabf7655-9762-4608-b101-5cbb49b4b27f
+  world-name: world
+  x: -662.7278323758144
+  y: 118.0
+  z: -132.9161619907425
+  yaw: 179.58877563476562
+  pitch: 3.0397207736968994
+homes:
+  home:
+    world: aabf7655-9762-4608-b101-5cbb49b4b27f
+    world-name: world
+    x: -596.2950084686812
+    y: 119.0
+    z: -149.6532128891633
+    yaw: 75.169921875
+    pitch: 5.139869213104248

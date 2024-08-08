@@ -1,0 +1,356 @@
+graves:
+- ==: com.bencodez.gravestonesplus.graves.GravesConfig
+  DestroyedTime: 0
+  Destroyed: false
+  PlayerName: TheFernet
+  X: -126
+  Y: 70
+  Time: 1722300491313
+  Z: 44
+  Items:
+    0:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: IRON_AXE
+    1:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: IRON_PICKAXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        Damage: 159
+    -2:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: IRON_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        Damage: 6
+    -3:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: IRON_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        Damage: 6
+    -4:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: IRON_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        Damage: 6
+    -5:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: AIR
+      amount: 0
+    5:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: DIRT
+      amount: 51
+    6:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: DIRT
+      amount: 64
+    7:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: DIRT
+      amount: 64
+    8:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: DIRT
+      amount: 64
+    9:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: IRON_INGOT
+      amount: 3
+    31:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: STICK
+  UUID: 2016efbe-18cb-464e-be52-d65425f43628
+  World: 7ed3065d-159e-4b58-b08f-12226d7d7e65
+  EXP: 0
+  DeathMessage: TheFernet was shot by Piglin
+- ==: com.bencodez.gravestonesplus.graves.GravesConfig
+  DestroyedTime: 0
+  Destroyed: false
+  PlayerName: TheFernet
+  X: -172
+  Y: 63
+  Time: 1722300601963
+  Z: 198
+  Items:
+    0:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: CRIMSON_STEM
+    -5:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: AIR
+      amount: 0
+  UUID: 2016efbe-18cb-464e-be52-d65425f43628
+  World: 7ed3065d-159e-4b58-b08f-12226d7d7e65
+  EXP: 0
+  DeathMessage: TheFernet was slain by Piglin
+brokengraves:
+- ==: com.bencodez.gravestonesplus.graves.GravesConfig
+  DestroyedTime: 1723010471903
+  Destroyed: true
+  PlayerName: d0ce3_
+  X: -599
+  Y: -22
+  Time: 1723010370921
+  Z: -472
+  Items:
+    0:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: DIAMOND_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:mending: 1
+          minecraft:sharpness: 5
+          minecraft:unbreaking: 3
+        repair-cost: 7
+        Damage: 1
+    -1:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: DIAMOND_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:unbreaking: 3
+        repair-cost: 3
+        Damage: 7
+    1:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: DIAMOND_PICKAXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:efficiency: 5
+          minecraft:fortune: 3
+          minecraft:mending: 1
+          minecraft:unbreaking: 3
+        repair-cost: 31
+        Damage: 18
+    -2:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: DIAMOND_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:protection: 4
+          minecraft:unbreaking: 3
+        repair-cost: 7
+        Damage: 9
+    2:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:flame: 1
+          minecraft:power: 3
+        repair-cost: 1
+        Damage: 24
+    -3:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: DIAMOND_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:unbreaking: 3
+        repair-cost: 3
+        Damage: 9
+    3:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: WATER_BUCKET
+    -4:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+        repair-cost: 1
+        Damage: 12
+    4:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: COBBLESTONE
+      amount: 64
+    -5:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: AIR
+      amount: 0
+    5:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: BONE
+      amount: 5
+    6:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: FLINT
+    7:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: GOLDEN_CARROT
+      amount: 38
+    8:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: COBBLESTONE
+      amount: 36
+    9:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: SHIELD
+      meta:
+        ==: ItemMeta
+        meta-type: TILE_ENTITY
+        Damage: 27
+        blockMaterial: SHIELD
+    10:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: BOOK
+      amount: 2
+    11:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: GRANITE
+    12:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: COAL
+      amount: 4
+    13:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: GUNPOWDER
+      amount: 2
+    14:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: RAW_GOLD
+      amount: 64
+    15:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: COBBLED_DEEPSLATE
+      amount: 32
+    16:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: IRON_INGOT
+      amount: 4
+    17:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: ARROW
+      amount: 47
+    18:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: STICK
+      amount: 18
+    19:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: FLINT_AND_STEEL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        Damage: 2
+    20:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: ROTTEN_FLESH
+      amount: 6
+    21:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: DIAMOND
+      amount: 9
+    22:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: DIORITE
+    23:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: STRING
+      amount: 4
+    24:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: RAW_GOLD
+      amount: 46
+    27:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: DIAMOND_SHOVEL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:efficiency: 5
+          minecraft:mending: 1
+          minecraft:unbreaking: 3
+        repair-cost: 15
+        Damage: 2
+    28:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: DIAMOND_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:efficiency: 5
+          minecraft:mending: 1
+          minecraft:unbreaking: 3
+        repair-cost: 15
+        Damage: 73
+    35:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: COBBLESTONE
+      amount: 64
+  UUID: 31a6d88a-5eb6-45ac-9a23-e0ff6e3af8ad
+  World: aabf7655-9762-4608-b101-5cbb49b4b27f
+  EXP: 100
+  DeathMessage: d0ce3_ was blown up by Creeper

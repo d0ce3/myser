@@ -1,0 +1,150 @@
+[05:20:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:20:29] [ServerMain/INFO]: Loaded 1290 recipes
+[05:20:30] [ServerMain/INFO]: Loaded 1399 advancements
+[05:20:30] [Server thread/INFO]: Starting minecraft server version 1.21
+[05:20:30] [Server thread/INFO]: Loading properties
+[05:20:30] [Server thread/INFO]: This server is running Paper version 1.21-79-master@a6ceda1 (2024-07-16T18:42:09Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[05:20:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:20:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:20:31] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[05:20:31] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[05:20:31] [Server thread/INFO]: Default game type: SURVIVAL
+[05:20:31] [Server thread/INFO]: Generating keypair
+[05:20:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:20:32] [Server thread/INFO]: Using epoll channel type
+[05:20:32] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:20:32] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:20:32] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loading 1 libraries... please wait
+[05:20:32] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/myser/servidor_minecraft/libraries/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar
+[05:20:32] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/myser/servidor_minecraft/libraries/org/ow2/asm/asm/7.3.1/asm-7.3.1.jar
+[05:20:32] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/myser/servidor_minecraft/libraries/org/ow2/asm/asm-commons/7.3.1/asm-commons-7.3.1.jar
+[05:20:32] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/myser/servidor_minecraft/libraries/org/ow2/asm/asm-analysis/7.3.1/asm-analysis-7.3.1.jar
+[05:20:32] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/myser/servidor_minecraft/libraries/org/ow2/asm/asm-tree/7.3.1/asm-tree-7.3.1.jar
+[05:20:32] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/myser/servidor_minecraft/libraries/org/ow2/asm/asm-util/7.3.1/asm-util-7.3.1.jar
+[05:20:32] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[05:20:33] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+104-33e086f
+[05:20:33] [Server thread/INFO]: [RHLeafDecay] Loading server plugin RHLeafDecay v1.21_R1
+[05:20:33] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.1
+[05:20:33] [Server thread/INFO]: [GraveStonesPlus] Loading server plugin GraveStonesPlus v1.6.7
+[05:20:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:20:33] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[05:20:33] [Server thread/INFO]:         __    
+[05:20:33] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[05:20:33] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[05:20:33] [Server thread/INFO]: 
+[05:20:33] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[05:20:33] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[05:20:34] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[05:20:34] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[05:20:34] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1395ms)
+[05:20:34] [Server thread/INFO]: Preparing level "world"
+[05:20:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:20:36] [Server thread/INFO]: Time elapsed: 1227 ms
+[05:20:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:20:36] [Server thread/INFO]: Time elapsed: 246 ms
+[05:20:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:20:36] [Server thread/INFO]: Time elapsed: 202 ms
+[05:20:36] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+104-33e086f
+[05:20:38] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[05:20:38] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[05:20:38] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[05:20:38] [Server thread/INFO]: [Essentials] Using locale en
+[05:20:38] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[05:20:39] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[05:20:39] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[05:20:39] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[05:20:39] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[05:20:39] [Server thread/INFO]: [RHLeafDecay] Enabling RHLeafDecay v1.21_R1
+[05:20:39] [Server thread/INFO]: [RHLeafDecay] The plugin has been loaded!
+[05:20:39] [Server thread/INFO]: [RHLeafDecay] You are using version 1.21_R1 /w 💕 by X0R3
+[05:20:39] [Server thread/INFO]: [RHLeafDecay] Info:
+[05:20:39] [Server thread/INFO]: [RHLeafDecay] If you want your server be presented on the plugin page, then please contact me! :)
+[05:20:39] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.1
+[05:20:39] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[05:20:39] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.1
+[05:20:39] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[05:20:39] [Server thread/INFO]: [GraveStonesPlus] Enabling GraveStonesPlus v1.6.7
+[05:20:39] [Server thread/INFO]: [GraveStonesPlus] Loaded LuckPerms hook!
+[05:20:40] [Server thread/INFO]: Running delayed init tasks
+[05:20:40] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[05:20:40] [Craft Scheduler Thread - 0 - GraveStonesPlus/INFO]: [GraveStonesPlus] GraveStonesPlus has an update available! Your Version: 1.6.7 New Version: 1.7
+[05:20:40] [Server thread/INFO]: Done (10.192s)! For help, type "help"
+[05:20:40] [Server thread/INFO]: Timings Reset
+[05:20:40] [Craft Scheduler Thread - 2 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available.
+[05:20:40] [Craft Scheduler Thread - 2 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available:
+[05:20:40] [Craft Scheduler Thread - 2 - SimpleTpa/INFO]: [SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/
+[05:20:40] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] You're 3 EssentialsX dev build(s) out of date!
+[05:20:40] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[05:20:45] [Server thread/WARN]: [GraveStonesPlus] Failed to hook into vault economy
+[05:20:45] [Server thread/WARN]: [GraveStonesPlus] Failed to hook into vault permissions
+[05:21:03] [User Authenticator #0/INFO]: UUID of player d0ce3_ is 31a6d88a-5eb6-45ac-9a23-e0ff6e3af8ad
+[05:21:06] [Server thread/INFO]: d0ce3_ joined the game
+[05:21:06] [Server thread/INFO]: d0ce3_[/100.101.19.125:64661] logged in with entity id 70 at ([world]-660.9033917315807, 118.0, -107.5777774395068)
+[05:28:48] [Server thread/INFO]: Villager Villager['Librarian'/77, uuid='f4e3b518-9a36-498d-8eec-f8983ac0f075', l='ServerLevel[world]', x=-667.72, y=118.34, z=-139.50, cpos=[-42, -9], tl=657988, v=true] died, message: 'Librarian was slain by Zombie'
+[05:50:12] [Server thread/INFO]: d0ce3_ has made the advancement [Take Aim]
+[05:59:30] [Server thread/INFO]: d0ce3_ was blown up by Creeper
+[05:59:30] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-598.6882047604523,y=-21.61647847234541,z=-471.03630865688046,pitch=24.563362,yaw=74.1514}
+[05:59:46] [Server thread/INFO]: Made d0ce3_ a server operator
+[05:59:56] [Server thread/INFO]: d0ce3_ issued server command: /tp @s -601 -22.5 -471
+[06:00:24] [Server thread/INFO]: d0ce3_ issued server command: /gamemode creative
+[06:00:35] [Server thread/INFO]: d0ce3_ issued server command: /tp -601 -23 -471
+[06:01:07] [Server thread/INFO]: d0ce3_ issued server command: /difficulty peaceful
+[06:01:07] [Server thread/INFO]: [d0ce3_: The difficulty has been set to Peaceful]
+[06:01:08] [Server thread/INFO]: d0ce3_ issued server command: /gamemode survival
+[06:01:17] [Server thread/INFO]: d0ce3_ issued server command: /gamemode creative
+[06:01:23] [Server thread/INFO]: d0ce3_ issued server command: /difficulty hard
+[06:01:23] [Server thread/INFO]: [d0ce3_: The difficulty has been set to Hard]
+[06:01:24] [Server thread/INFO]: d0ce3_ issued server command: /gamemode survival
+[06:03:56] [Server thread/INFO]: d0ce3_ issued server command: /home
+[06:16:25] [Server thread/INFO]: d0ce3_ issued server command: /home
+[06:28:24] [Server thread/INFO]: d0ce3_ issued server command: /home
+[06:34:26] [Server thread/INFO]: d0ce3_ issued server command: /home
+[06:39:50] [Server thread/INFO]: d0ce3_ issued server command: /home
+[06:57:19] [Server thread/INFO]: d0ce3_ issued server command: /home
+[06:59:15] [Server thread/INFO]: d0ce3_ lost connection: Disconnected
+[06:59:15] [Server thread/INFO]: d0ce3_ left the game
+[06:59:30] [Server thread/INFO]: Made d0ce3_ no longer a server operator
+[06:59:33] [Server thread/INFO]: Stopping the server
+[06:59:33] [Server thread/INFO]: Stopping server
+[06:59:33] [Server thread/INFO]: [GraveStonesPlus] Disabling GraveStonesPlus v1.6.7
+[06:59:33] [Server thread/INFO]: [GraveStonesPlus] Allowing background tasks to finish, this could take up to 5 seconds
+[06:59:33] [Server thread/INFO]: Named entity ArmorStand['TheFernet died here!'/22, uuid='13bfc97a-b30c-499e-88ca-7605548f7b83', l='ServerLevel[world_nether]', x=-125.50, y=71.50, z=44.50, cpos=[-8, 2], tl=117, v=false] died: TheFernet died here! died
+[06:59:33] [Server thread/INFO]: Named entity ArmorStand['Died at Tue Jul 30 00:48:11 UTC 2024'/23, uuid='e82c8692-ae25-40fe-b25a-86bf7b446144', l='ServerLevel[world_nether]', x=-125.50, y=71.25, z=44.50, cpos=[-8, 2], tl=117, v=false] died: Died at Tue Jul 30 00:48:11 UTC 2024 died
+[06:59:33] [Server thread/INFO]: Named entity ArmorStand['Reason: TheFernet was shot by Piglin'/24, uuid='1673a552-e532-45c1-bf7d-5820ddd7505a', l='ServerLevel[world_nether]', x=-125.50, y=71.00, z=44.50, cpos=[-8, 2], tl=117, v=false] died: Reason: TheFernet was shot by Piglin died
+[06:59:33] [Server thread/INFO]: Named entity ArmorStand['TheFernet died here!'/27, uuid='f91403d1-baaa-4562-8877-b4bd9910be09', l='ServerLevel[world_nether]', x=-171.50, y=64.50, z=198.50, cpos=[-11, 12], tl=105, v=false] died: TheFernet died here! died
+[06:59:33] [Server thread/INFO]: Named entity ArmorStand['Died at Tue Jul 30 00:50:01 UTC 2024'/28, uuid='646cb90f-8d37-4912-b801-845c5814d997', l='ServerLevel[world_nether]', x=-171.50, y=64.25, z=198.50, cpos=[-11, 12], tl=105, v=false] died: Died at Tue Jul 30 00:50:01 UTC 2024 died
+[06:59:33] [Server thread/INFO]: Named entity ArmorStand['Reason: TheFernet was slain by Piglin'/29, uuid='b5904182-49db-4326-baab-9d43e5e09ca6', l='ServerLevel[world_nether]', x=-171.50, y=64.00, z=198.50, cpos=[-11, 12], tl=105, v=false] died: Reason: TheFernet was slain by Piglin died
+[06:59:33] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.1
+[06:59:33] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[06:59:33] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.1
+[06:59:33] [Server thread/INFO]: [RHLeafDecay] Disabling RHLeafDecay v1.21_R1
+[06:59:33] [Server thread/INFO]: [RHLeafDecay] Cleaned up scheduledBlocks...
+[06:59:33] [Server thread/INFO]: [RHLeafDecay] The plugin has been unloaded!
+[06:59:33] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+104-33e086f
+[06:59:33] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[06:59:33] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[06:59:33] [Server thread/INFO]: [LuckPerms] Closing storage...
+[06:59:33] [Server thread/INFO]: [LuckPerms] Goodbye!
+[06:59:33] [Server thread/INFO]: Saving players
+[06:59:33] [Server thread/INFO]: Saving worlds
+[06:59:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:59:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:59:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:59:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:59:33] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world' in 0.07s
+[06:59:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:59:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:59:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:59:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:59:33] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 27 entity chunks, 0 poi chunks in world 'world_nether' in 0.05s
+[06:59:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:59:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:59:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:59:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:59:34] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.04s
+[06:59:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:59:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:59:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:59:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
